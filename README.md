@@ -1,3 +1,7 @@
+<img width="975" height="143" alt="image" src="https://github.com/user-attachments/assets/20f56e72-f9c1-4068-815c-daf325c267dd" />
+
+
+
 KPI’s requirement
 1.	Total Revenue: The sum of the total price of all pizza orders.
 2.	Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
@@ -22,4 +26,4 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the Reven
 7.	Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 
-<img width="975" height="143" alt="image" src="https://github.com/user-attachments/assets/20f56e72-f9c1-4068-815c-daf325c267dd" />
+
